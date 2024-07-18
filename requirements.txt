@@ -4,4 +4,4 @@ numpy  # or the version you're using
 pandas  # or the version you're using
 plotly  # or the version you're using
 streamlit-aggrid
-
+seaborn
